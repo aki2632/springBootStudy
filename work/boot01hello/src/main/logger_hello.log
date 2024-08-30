@@ -1,0 +1,35 @@
+2024-08-28T14:09:57.646+09:00  INFO 15576 --- [boot01hello] [restartedMain] test.com.hello.Boot01helloApplication    : Starting Boot01helloApplication using Java 17.0.10 with PID 15576 (C:\MULTI_EDU_26\springboot\work\boot01hello\target\classes started by aki26 in C:\MULTI_EDU_26\springboot\work\boot01hello)
+2024-08-28T14:09:57.646+09:00  INFO 15576 --- [boot01hello] [restartedMain] test.com.hello.Boot01helloApplication    : No active profile set, falling back to 1 default profile: "default"
+2024-08-28T14:09:57.772+09:00  INFO 15576 --- [boot01hello] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8801 (http)
+2024-08-28T14:09:57.775+09:00  INFO 15576 --- [boot01hello] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-28T14:09:57.775+09:00  INFO 15576 --- [boot01hello] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-08-28T14:09:57.786+09:00  INFO 15576 --- [boot01hello] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-28T14:09:57.786+09:00  INFO 15576 --- [boot01hello] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 138 ms
+2024-08-28T14:09:57.789+09:00  INFO 15576 --- [boot01hello] [restartedMain] test.com.hello.TestComponent             : TestComponent()...
+2024-08-28T14:09:57.789+09:00  INFO 15576 --- [boot01hello] [restartedMain] test.com.hello.UserComponent             : UserComponent()...
+2024-08-28T14:09:57.790+09:00  INFO 15576 --- [boot01hello] [restartedMain] test.com.hello.TestBean                  : TestBean()...
+2024-08-28T14:09:57.790+09:00  INFO 15576 --- [boot01hello] [restartedMain] test.com.hello.Person                    : Person()...
+2024-08-28T14:09:57.798+09:00  INFO 15576 --- [boot01hello] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-08-28T14:09:57.824+09:00  INFO 15576 --- [boot01hello] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-08-28T14:09:57.830+09:00  INFO 15576 --- [boot01hello] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8801 (http) with context path '/'
+2024-08-28T14:09:57.832+09:00  INFO 15576 --- [boot01hello] [restartedMain] test.com.hello.Boot01helloApplication    : Started Boot01helloApplication in 0.205 seconds (process running for 32.383)
+2024-08-28T14:09:57.834+09:00  INFO 15576 --- [boot01hello] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-08-28T14:10:02.979+09:00  INFO 15576 --- [boot01hello] [RMI TCP Connection(11)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2024-08-28T14:10:04.327+09:00  INFO 41824 --- [boot01hello] [restartedMain] test.com.hello.Boot01helloApplication    : Starting Boot01helloApplication using Java 17.0.10 with PID 41824 (C:\MULTI_EDU_26\springboot\work\boot01hello\target\classes started by aki26 in C:\MULTI_EDU_26\springboot\work\boot01hello)
+2024-08-28T14:10:04.329+09:00  INFO 41824 --- [boot01hello] [restartedMain] test.com.hello.Boot01helloApplication    : No active profile set, falling back to 1 default profile: "default"
+2024-08-28T14:10:04.358+09:00  INFO 41824 --- [boot01hello] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-08-28T14:10:04.358+09:00  INFO 41824 --- [boot01hello] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-08-28T14:10:04.909+09:00  INFO 41824 --- [boot01hello] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8801 (http)
+2024-08-28T14:10:04.919+09:00  INFO 41824 --- [boot01hello] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-28T14:10:04.920+09:00  INFO 41824 --- [boot01hello] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-08-28T14:10:04.949+09:00  INFO 41824 --- [boot01hello] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-28T14:10:04.949+09:00  INFO 41824 --- [boot01hello] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 591 ms
+2024-08-28T14:10:04.980+09:00  INFO 41824 --- [boot01hello] [restartedMain] test.com.hello.TestComponent             : TestComponent()...
+2024-08-28T14:10:04.981+09:00  INFO 41824 --- [boot01hello] [restartedMain] test.com.hello.UserComponent             : UserComponent()...
+2024-08-28T14:10:04.981+09:00  INFO 41824 --- [boot01hello] [restartedMain] test.com.hello.TestBean                  : TestBean()...
+2024-08-28T14:10:04.981+09:00  INFO 41824 --- [boot01hello] [restartedMain] test.com.hello.Person                    : Person()...
+2024-08-28T14:10:05.012+09:00  INFO 41824 --- [boot01hello] [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-08-28T14:10:05.156+09:00  INFO 41824 --- [boot01hello] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-08-28T14:10:05.177+09:00  INFO 41824 --- [boot01hello] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8801 (http) with context path '/'
+2024-08-28T14:10:05.184+09:00  INFO 41824 --- [boot01hello] [restartedMain] test.com.hello.Boot01helloApplication    : Started Boot01helloApplication in 1.124 seconds (process running for 1.6)
+2024-08-28T14:10:33.675+09:00  INFO 41824 --- [boot01hello] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
